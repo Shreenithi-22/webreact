@@ -15,6 +15,14 @@ export default function Layout() {
                     <Link className="nav-link" to="/contact">Contact</Link></li>
                 <li>
                     <Link className="nav-link" to="/service">Service</Link></li>
+                <li>
+                    <Link className="nav-link" to="/counter">Counter</Link></li>   
+                <li>
+                    <Link className="nav-link" to="/effect">Effect</Link></li>   
+                <li>
+                    <Link className="nav-link" to="/reducer">Reducer</Link></li>   
+                <li>
+                    <Link className="nav-link" to="/callbacks">Callbacks</Link></li>     
             </ul>
         </nav>
         <Outlet/>

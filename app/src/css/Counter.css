@@ -1,0 +1,14 @@
+.container{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    height: 150px;
+    width: auto;
+    
+}
+
+.counter-box{
+    background-color: rgb(8, 72, 97);
+    padding:10px;
+    text-align: center;
+}
